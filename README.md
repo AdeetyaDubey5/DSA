@@ -5,4 +5,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
 <!---LeetCode Topics End-->
