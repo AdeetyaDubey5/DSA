@@ -8,9 +8,15 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
