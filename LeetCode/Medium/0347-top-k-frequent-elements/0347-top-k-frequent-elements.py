@@ -7,13 +7,11 @@ class Solution:
 
         sorted_hsh = dict(sorted(hsh.items(),key=lambda item:item[1],reverse=True))
 
-        cnt = 0
         res = []
         for keys in sorted_hsh.keys():
-            if cnt == k:
+            if len(res) == k:
                 break
             res.append(keys)
-            cnt += 1 
 
         return res
         
