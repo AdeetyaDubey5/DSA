@@ -10,12 +10,14 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
 ## Sorting
@@ -23,6 +25,7 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +55,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 <!---LeetCode Topics End-->
