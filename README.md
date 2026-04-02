@@ -8,6 +8,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -16,6 +17,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -25,6 +27,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -32,6 +35,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
