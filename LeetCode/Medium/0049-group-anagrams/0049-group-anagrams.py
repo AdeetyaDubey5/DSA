@@ -3,11 +3,11 @@ class Solution:
 
         stash = defaultdict(list)
 
-        for word in strs:
-            letters = "".join(sorted(word))  # "eat" -> ['a','e','t'] -> "aet"
-            stash[letters].append(word)   # stash['aet'] = ["eat","tea","ate"]
+        for i in strs:
+            wrd = "".join(sorted(i))
+            stash[wrd].append(i)
 
-        res = list(stash.values())
+        res = sorted(stash.values())
 
         return res
         
