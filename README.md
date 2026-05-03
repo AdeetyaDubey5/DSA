@@ -11,6 +11,7 @@
 | [0001-two-sum](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0136-single-number](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -82,4 +83,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
