@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
+| [0189-rotate-array](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -13,6 +14,7 @@
 | [0049-group-anagrams](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0136-single-number](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -74,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdeetyaDubey5/DSA/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
